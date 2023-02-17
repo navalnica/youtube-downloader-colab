@@ -1,6 +1,8 @@
 ## Апісаньне (be)
 Вітаю!
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yks72p/youtube-downloader-colab/blob/main/download_from_youtube.ipynb)
+
 Гэты інтэрактыўны ноўтбук дапаможа табе спампаваць аўдыя зь любога відэа на youtube. 
 Без усталяваньня лішніх плагінаў у свой браўзер і без аніякай рэкламы.
 
@@ -9,11 +11,13 @@
 Увесь код выконваецца на бясплатнай віртуальнай машыне ў воблаку Google Colab. Таму табе не спатрэбіцца нічога ўсталёўваць на свой камп'ютар. 
 
 ### Запуск
-* Каб запусьціць ноўтбук табе спатрэбіца толькі 
-  **зайсьці ў свой Google-акаўнт**, каб атрымаць доступ да бясплатнай віртуальнай машыны ў воблаку Google Colab
+Каб запусьціць ноўтбук табе спатрэбіца:
+* Націснуць на кнопку "Open in Colab" вышэй.
+* Пасьля таго як ноўтбук адкрыецца, неабходна зайсьці ў свой Google-акаўнт, 
+  каб атрымаць доступ да бясплатнай віртуальнай машыны ў воблаку Google Colab
 * Ніякія даныя пра твой акаўнт не выкарыстоўваюцца.<br>
   Доступ да твайго Google-дыску таксама не адбываецца.
-* Табе неабходна толькі ўвесьці спасылку на відэа ў форму ніжэй і запусьціць **"клеткі"** з кодам
+* Далей неабходна увесьці спасылку на відэа ў адпаведную форму і запусьціць **"клеткі"** з кодам
 * Запускаць клеткі можна з дапамогай трохкутнічка ў левым верхнім куце клеткі
 * Пры першым запуску віртуальнай машыны неабходна выканаць клеткі "Ініцыялізацыі"
 * Калі захочаш, то можаш адкрыць "Праваднік" на віртуальнай машыне кнопкай з выявай тэчкі ў самым левым куце старонкі. 
@@ -30,6 +34,8 @@
 ## Description (en)
 Hello!
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yks72p/youtube-downloader-colab/blob/main/download_from_youtube.ipynb)
+
 Use this notebook to download audio from any youtube video. With no add-ons and no adds.
 
 Probably later I'll add support to download videos.
@@ -37,7 +43,9 @@ Probably later I'll add support to download videos.
 All code is run on free Virtual Machines (VM) in Google Colab. Thus you don't need to install anything on your computer.
 
 ### Run
-* To run the notebook you have to login to your Google Account in order to launch free VM in Google Colab
+To run the notebook you have to:
+* Click on the "Open in Colab" button above
+* Login to your Google Account in order to launch free VM in Google Colab
 * No data from your Google Account is used, your Google Drive is never accessed.
 * You have to enter link to the youtube video and execute **code cells**
 * Cells are executed with a triangle icon to the left of the code cell
